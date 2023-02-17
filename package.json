@@ -1,0 +1,23 @@
+{
+  "name": "boastplaydb",
+  "version": "1.0.0",
+  "description": "Fake database to serve as an API endpoint for accessing user resources",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBoastApp/boastPlayDB.git"
+  },
+  "author": "Kat Kime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBoastApp/boastPlayDB/issues"
+  },
+  "homepage": "https://github.com/TheBoastApp/boastPlayDB#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
